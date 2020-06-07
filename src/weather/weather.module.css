@@ -1,40 +1,30 @@
 .body {
-	width: 800px;
-	height: 500px;
+	width: 450px;
+	height: 600px;
 	border: solid 1px blue;
-	margin:80px auto;
+	margin:20px auto;
 	border-radius: 30px;
+	background-image: url(../icons/sky.jpg);
 
 
 }
 
 .weatherInfo {
-	width: 700px;
-	height: 500px;
+	width: 450px;
+	height: 600px;
 	
 }
 
-.weatherInfo div{
-	width: 50%;
-	height: 40%;
-	display: inline-block;
-	text-align: center;
-}
+
 .weatherInfo p{
 	display: inline-block;
 	font-size: 30px;
 }
-.weatherInfo .city{
-	font-size: 50px;
-}
-.weatherInfo img{
-	width: 50px;
-	height: 50px;
-}
+
 
 .citySearch{
-	width: 70%;
-	height: 30px;
+	width: 55%;
+	height: 40px;
 	border-radius: 30px;
 	margin:40px;
 	padding-left: 10px;
@@ -44,11 +34,12 @@
 }
 
 .button{
-	width: 15%;
-	height: 30px;
+	width: 20%;
+	height: 40px;
 	background: lightblue;
 	border-radius: 30px;
 	border:none;
+	font-size: 20px
 
 }
 
@@ -56,4 +47,39 @@
    font-size: 40px;
    text-align: center;
 
+}
+
+.temp p{
+	display: block;
+	font-size: 80px;
+	display: inline-block;
+}
+.temp {
+	text-align: center;
+}
+.temp img{
+	width: 60px;
+	display: inline-block;
+}
+
+.city{
+	text-align: center;
+	width: 49%;
+	display: inline-block;
+	border-right: solid 2px black;
+}
+
+.city p{
+	font-size: 40px;
+
+}
+.weather{
+	text-align: center;
+	width: 49%;
+	display: inline-block;
+	
+}
+
+.weather img {
+	width: 100px;
 }

@@ -2,6 +2,10 @@ import React from 'react'
 import {connect} from 'react-redux'
 import Weather from './weather'
 import * as axios from 'axios'
+import sun from '../icons/sun.png'
+import rain from '../icons/rain.png'
+import storm from '../icons/storm.png'
+import cloud from '../icons/cloud.png'
 
 class weatherContainer extends React.Component{
 
@@ -15,7 +19,23 @@ citysWeather(){
 	}
 
 	
-
+ weatherIcon() {
+         switch (this.props.weatherInfo.weather[0].main) {
+                 case "Clear":
+                    return sun
+                    break;
+                 case "Rain":
+                    return rain
+                    break;
+                 case "Clouds":
+                    return cloud
+                    break;
+                 case "Storm":
+                    return storm
+                    break;
+                 
+                }
+    }
 
 
 	render(){
@@ -24,7 +44,7 @@ citysWeather(){
 		inputValue={this.props.inputValue}
 		changeInputValue={this.props.changeInputValue}
 		click = {this.citysWeather.bind(this)}
-		
+		weatherIcon = {this.weatherIcon.bind(this)}
 		/>
 
 
