@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"state",
+				"stateDefault"
+			],
+			[
+				"bord",
+				"border-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"country",
+				"columnRuleStyle\t = 'inherit' Style CSS"
+			],
+			[
+				"mess",
+				"messageValue"
+			],
+			[
+				"message",
+				"messageValuer"
+			],
+			[
+				"onCh",
+				"onChanger"
+			],
+			[
+				"messa",
+				"messageValue\tmessageReducer.js"
+			],
+			[
+				"pr",
+				"proto\tPrototype"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"send",
+				"sendElement"
+			],
+			[
+				"doc",
+				"documentElement\t: Element Document"
+			],
+			[
+				"grid-e",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"clas",
+				"className\t: DOMString Element"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: React: this.props"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hayk/Desktop/my-app/src/component/users/usersContainer.js",
+		"/C/Users/Hayk/Desktop/my-app/src/state.js",
+		"/C/Users/Hayk/Desktop/my-app/src/redux/store.js",
+		"/C/Users/Hayk/Desktop/my-app/src/redux/profileReducer.js",
+		"/C/Users/Hayk/Desktop/my-app/src/index.js",
+		"/C/Users/Hayk/Desktop/my-app/src/redux/usersReducer.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/newPost/posts/posts.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/users/users.module.css",
+		"/C/Users/Hayk/Desktop/my-app/src/component/users/users.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/profile/profile.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/nav/nav.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/newPost/newPost.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/newPost/newPostContainer.js",
+		"/C/Users/Hayk/Desktop/my-app/src/redux/messageReducer.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/messages/messages.js",
+		"/C/Users/Hayk/Desktop/my-app/src/App.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/messages/messagesContainer.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/messages/friends/chat.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/friend/friender/friender.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/friend/friend.js",
+		"/C/Users/Hayk/Desktop/my-app/src/render.js",
+		"/C/Users/Hayk/Desktop/my-app/src/component/messages/messages.module.css",
+		"/C/Users/Hayk/Desktop/my-app/src/App.css",
+		"/C/Users/Hayk/Desktop/my-app/src/component/profile/profile.module.css",
+		"/C/Users/Hayk/Desktop/new-app/src/App.css",
+		"/C/Users/Hayk/Desktop/new-app/package.json",
+		"/C/Users/Hayk/Exercism/javascript/two-fer/two-fer.spec.js",
+		"/C/Users/Hayk/Exercism/javascript/hello-world/hello-world.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
