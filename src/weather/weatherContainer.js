@@ -8,7 +8,7 @@ class weatherContainer extends React.Component{
 citysWeather(){
 
 		let citySearch = this.props.inputValue
-		axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${citySearch}&appid=d00ebd7514a99801bdd4bf8a81075167&units=metric`).then(res=>{
+		axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${citySearch}&appid=d00ebd7514a99801bdd4bf8a81075167&units=metric`).then(res=>{
 			this.props.setState(res.data)		
 		})
 		   this.props.clearValue()
