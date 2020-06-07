@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/weather.github.io/static/css/main.0e4dc906.chunk.css",
-    "main.js": "/weather.github.io/static/js/main.fe4ccdb8.chunk.js",
-    "main.js.map": "/weather.github.io/static/js/main.fe4ccdb8.chunk.js.map",
+    "main.css": "/weather.github.io/static/css/main.dfaef4ee.chunk.css",
+    "main.js": "/weather.github.io/static/js/main.505d211e.chunk.js",
+    "main.js.map": "/weather.github.io/static/js/main.505d211e.chunk.js.map",
     "runtime-main.js": "/weather.github.io/static/js/runtime-main.73ced5b0.js",
     "runtime-main.js.map": "/weather.github.io/static/js/runtime-main.73ced5b0.js.map",
-    "static/js/2.7be80cb4.chunk.js": "/weather.github.io/static/js/2.7be80cb4.chunk.js",
-    "static/js/2.7be80cb4.chunk.js.map": "/weather.github.io/static/js/2.7be80cb4.chunk.js.map",
+    "static/js/2.a312bc63.chunk.js": "/weather.github.io/static/js/2.a312bc63.chunk.js",
+    "static/js/2.a312bc63.chunk.js.map": "/weather.github.io/static/js/2.a312bc63.chunk.js.map",
     "index.html": "/weather.github.io/index.html",
-    "precache-manifest.5e91dacac26bcc4cfdb261e0c76a0048.js": "/weather.github.io/precache-manifest.5e91dacac26bcc4cfdb261e0c76a0048.js",
+    "precache-manifest.266b5316bf90276e094bb77d0beb2a8a.js": "/weather.github.io/precache-manifest.266b5316bf90276e094bb77d0beb2a8a.js",
     "service-worker.js": "/weather.github.io/service-worker.js",
-    "static/css/main.0e4dc906.chunk.css.map": "/weather.github.io/static/css/main.0e4dc906.chunk.css.map",
-    "static/js/2.7be80cb4.chunk.js.LICENSE.txt": "/weather.github.io/static/js/2.7be80cb4.chunk.js.LICENSE.txt",
-    "static/media/feellike.png": "/weather.github.io/static/media/feellike.681b2624.png",
-    "static/media/gradus.png": "/weather.github.io/static/media/gradus.c66fafbd.png",
+    "static/css/main.dfaef4ee.chunk.css.map": "/weather.github.io/static/css/main.dfaef4ee.chunk.css.map",
+    "static/js/2.a312bc63.chunk.js.LICENSE.txt": "/weather.github.io/static/js/2.a312bc63.chunk.js.LICENSE.txt",
+    "static/media/cloud.png": "/weather.github.io/static/media/cloud.deb2da7b.png",
     "static/media/logo.svg": "/weather.github.io/static/media/logo.5d5d9eef.svg",
-    "static/media/weather.png": "/weather.github.io/static/media/weather.007f2867.png"
+    "static/media/rain.png": "/weather.github.io/static/media/rain.b295288e.png",
+    "static/media/weather.module.css": "/weather.github.io/static/media/sky.2d8db012.jpg",
+    "static/media/storm.png": "/weather.github.io/static/media/storm.8d5deced.png",
+    "static/media/sun.png": "/weather.github.io/static/media/sun.540e3938.png",
+    "static/media/temp.png": "/weather.github.io/static/media/temp.c66fafbd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.73ced5b0.js",
-    "static/js/2.7be80cb4.chunk.js",
-    "static/css/main.0e4dc906.chunk.css",
-    "static/js/main.fe4ccdb8.chunk.js"
+    "static/js/2.a312bc63.chunk.js",
+    "static/css/main.dfaef4ee.chunk.css",
+    "static/js/main.505d211e.chunk.js"
   ]
 }
