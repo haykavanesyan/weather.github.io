@@ -1,10 +1,11 @@
 .body {
 	width: 450px;
 	height: 600px;
-	border: solid 1px blue;
 	margin:20px auto;
 	border-radius: 30px;
 	background-image: url(../icons/sky.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 
 
 }
