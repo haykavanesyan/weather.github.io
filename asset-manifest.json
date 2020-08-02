@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather.github.io/static/css/main.dfaef4ee.chunk.css",
+    "main.css": "/weather.github.io/static/css/main.c58de855.chunk.css",
     "main.js": "/weather.github.io/static/js/main.505d211e.chunk.js",
     "main.js.map": "/weather.github.io/static/js/main.505d211e.chunk.js.map",
     "runtime-main.js": "/weather.github.io/static/js/runtime-main.73ced5b0.js",
@@ -8,14 +8,14 @@
     "static/js/2.a312bc63.chunk.js": "/weather.github.io/static/js/2.a312bc63.chunk.js",
     "static/js/2.a312bc63.chunk.js.map": "/weather.github.io/static/js/2.a312bc63.chunk.js.map",
     "index.html": "/weather.github.io/index.html",
-    "precache-manifest.266b5316bf90276e094bb77d0beb2a8a.js": "/weather.github.io/precache-manifest.266b5316bf90276e094bb77d0beb2a8a.js",
+    "precache-manifest.ea30f0580987bd61ad37bc5637c27139.js": "/weather.github.io/precache-manifest.ea30f0580987bd61ad37bc5637c27139.js",
     "service-worker.js": "/weather.github.io/service-worker.js",
-    "static/css/main.dfaef4ee.chunk.css.map": "/weather.github.io/static/css/main.dfaef4ee.chunk.css.map",
+    "static/css/main.c58de855.chunk.css.map": "/weather.github.io/static/css/main.c58de855.chunk.css.map",
     "static/js/2.a312bc63.chunk.js.LICENSE.txt": "/weather.github.io/static/js/2.a312bc63.chunk.js.LICENSE.txt",
     "static/media/cloud.png": "/weather.github.io/static/media/cloud.deb2da7b.png",
     "static/media/logo.svg": "/weather.github.io/static/media/logo.5d5d9eef.svg",
     "static/media/rain.png": "/weather.github.io/static/media/rain.b295288e.png",
-    "static/media/weather.module.css": "/weather.github.io/static/media/sky.2d8db012.jpg",
+    "static/media/weather.module.css": "/weather.github.io/static/media/sky.a398a975.jpg",
     "static/media/storm.png": "/weather.github.io/static/media/storm.8d5deced.png",
     "static/media/sun.png": "/weather.github.io/static/media/sun.540e3938.png",
     "static/media/temp.png": "/weather.github.io/static/media/temp.c66fafbd.png"
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.73ced5b0.js",
     "static/js/2.a312bc63.chunk.js",
-    "static/css/main.dfaef4ee.chunk.css",
+    "static/css/main.c58de855.chunk.css",
     "static/js/main.505d211e.chunk.js"
   ]
 }

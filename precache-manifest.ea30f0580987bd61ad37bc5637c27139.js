@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "825b51e1be647b631c8e45988ffd0da6",
+    "revision": "6e6bea757edd1ff76fb595304e59d884",
     "url": "/weather.github.io/index.html"
   },
   {
-    "revision": "a31500bafb54139fab37",
-    "url": "/weather.github.io/static/css/main.dfaef4ee.chunk.css"
+    "revision": "9fd03b94e4e2ed260b23",
+    "url": "/weather.github.io/static/css/main.c58de855.chunk.css"
   },
   {
     "revision": "127cb92baeeac5208a40",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weather.github.io/static/js/2.a312bc63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a31500bafb54139fab37",
+    "revision": "9fd03b94e4e2ed260b23",
     "url": "/weather.github.io/static/js/main.505d211e.chunk.js"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weather.github.io/static/media/rain.b295288e.png"
   },
   {
-    "revision": "2d8db012c4f83b6c01ca1786b0767a44",
-    "url": "/weather.github.io/static/media/sky.2d8db012.jpg"
+    "revision": "a398a975a249686918885b34b411ec88",
+    "url": "/weather.github.io/static/media/sky.a398a975.jpg"
   },
   {
     "revision": "8d5deced27dcef26fd26bbdc5931765b",
